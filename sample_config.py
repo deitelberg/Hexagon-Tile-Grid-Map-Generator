@@ -1,4 +1,4 @@
-# SAMPLE CONFIG FILE FOR DEMONSTRATION PURPOSES
+# ** SAMPLE CONFIG FILE FOR DEMONSTRATION PURPOSES **
 # Config file to hold variables I don't want to put in the main file.
 # Also for later, so that I can put potentially sensitive info here
 # and not push it to GitHub accidentally. 
