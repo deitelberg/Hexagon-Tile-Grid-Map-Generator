@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+_*_
+*config.py
+!sample_config.py
